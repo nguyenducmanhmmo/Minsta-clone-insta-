@@ -10,6 +10,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 4.0'
 gem 'devise'
 gem 'paperclip'
+gem 'masonry-rails', '~> 0.2.4'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
