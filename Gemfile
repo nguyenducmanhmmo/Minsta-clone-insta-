@@ -11,6 +11,7 @@ gem 'simple_form', '~> 4.0'
 gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.11.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
